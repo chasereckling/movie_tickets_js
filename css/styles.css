@@ -1,0 +1,17 @@
+body {
+  background-image: url('https://pbs.twimg.com/media/BcvmxibIYAAH8a3.jpg');
+  background-size: 100%;
+  opacity: 1.0;
+}
+
+.movie {
+  color: black;
+}
+
+.ticket-type {
+  color:black;
+}
+
+.container {
+  background-color: white;
+}
